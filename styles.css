@@ -431,11 +431,16 @@ article img.cover {
 }
 
 article img.left {
-width: 100%;
-    margin: 0 auto 0 0
+max-width: 375px;
+margin: 0 auto 0 0
 }
+article img.center {
+    max-width: 375px;
+    margin: 0 auto ;
+    }
 
 article img.right {
+    max-width: 375px;
     margin: 0 0 0 auto
 }
 .half{
@@ -444,9 +449,19 @@ article img.right {
     width: 50%;
 
 }
+.two-images{
+    margin:0;
+    max-width:780px;
+    display:block;
+    width: 100%;
+}
 @media (max-width:500px) {
     .half{
 
     width: 100%;
 }
 }
+.video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
