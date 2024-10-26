@@ -1,4 +1,4 @@
-# help-center for Rakuma
+# Help-center for Rakuma
 This repository contains the files and resources for the Rakuma Help Center project. This project is designed to support Rakuma users with easy access to troubleshooting guides, frequently asked questions, and support documentation. The Help Center provides users with solutions to common issues and improves overall user experience by enabling self-service support.
 
 Project Overview
